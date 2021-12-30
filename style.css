@@ -5,6 +5,9 @@ body{
 
 .name{
    color: #3D5B59;
-   
+}
 
+.main{
+   width: 80%;
+   margin: auto;
 }
